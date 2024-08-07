@@ -139,5 +139,5 @@ pip install imblearn
 ```
     
 ## Demo video link
-
+https://www.linkedin.com/posts/riyasudeen-m-876b3a307_here-is-the-demo-video-on-my-next-project-activity-7226992345999675394-hPZb?utm_source=share&utm_medium=member_desktop
 
